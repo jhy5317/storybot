@@ -1,0 +1,38 @@
+# Python / 가상환경
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+
+# Node / 빌드 결과물
+node_modules/
+dist/
+
+# OS / 로컬 설정
+.DS_Store
+__MACOSX/
+.claude/settings.local.json
+
+# 데이터 / 모델 가중치 (용량 큼)
+data/
+datasets/
+model/
+models/
+work/
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+*.h5
+*.zip
+*.mp4
+*.db
+*.sqlite3
+*.log
+
+# 학습 데이터
+tiny_stories*
