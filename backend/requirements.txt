@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+bcrypt
+pyjwt
+torch
+numpy
+regex
+tqdm
